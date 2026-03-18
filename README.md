@@ -140,7 +140,7 @@ git push origin test
 If you get stuck at any point, don’t hesitate to ask for help or look up the command online!
 
 ## 📝 Optional next steps 
-* Use this README template to update your profile README. Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+* Use your newly created README template to update your profile README. Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * [Let us know what you liked or didn’t like about the content of this course](https://support.github.com/contact/education). What would you like to see more of? What would be interesting or helpful to your learning journey?
 * Explore other GitHub commands in this [GitHub Cheat Sheet]((https://education.github.com/git-cheat-sheet-education.pdf). 
